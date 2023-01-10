@@ -1,6 +1,6 @@
-![image](https://user-images.githubusercontent.com/53051383/211131884-23ae1477-8ec0-49c6-827e-b6849df11723.png)
+![image](https://user-images.githubusercontent.com/53051383/211435964-401345b4-361f-4647-a116-cb6aa82b9b33.png)
 
 # 100. Same Tree
 ### DFS and compare, there are some corner cases
 
-![image](https://user-images.githubusercontent.com/53051383/211131927-c67c24d0-cd1d-4ac6-9e00-c3115c986b5e.png)
+![image](https://user-images.githubusercontent.com/53051383/211435999-550b8b18-22e1-476b-bd1f-997c661cfe54.png)
