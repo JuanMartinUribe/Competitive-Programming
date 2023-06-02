@@ -1,0 +1,1 @@
+### Create a graph where the edges represent if a bomb can explode another bomb, then traverse the graph where the starting node is each bomb and calculate the node that explodes the largest amount of bombs.
