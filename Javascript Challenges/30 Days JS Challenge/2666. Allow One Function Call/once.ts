@@ -1,7 +1,14 @@
 function once<T extends (...args: any[]) => any>(fn: T): 
  ((...args: Parameters<T>) => ReturnType<T> | undefined) {
+     let firstCall = true;
   return function (...args) {
-
+      if (firstCall){
+          firstCall = false;
+          return fn(...args);
+      }
+      else{
+          return undefined;
+      }
   };
 }
 
